@@ -7,7 +7,7 @@
                const char* password = "YOUR+PASSWORD";                               //                                
 //                                                                                   //
 // HERE YOU CAN CHANGE THE VOLTAGE YOU ARE USING TO CALCULATE THE POWER WATT [W]     //
-               double volt = 120;                                                    //
+               double volt = 5;                                                      //
 //                                                                                   //  
 //                                                                                   //
 // CHANGE HERE THE PRICE YOU WANT PER Wh IN IOTA                                     //
