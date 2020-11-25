@@ -3,8 +3,8 @@
 
 //----------------------------------------------------------------------------------//
 // HERE YOU HAVE TO SET YOUR WIFI PNAME AND PASSWORD                                 //
-               const char* ssid = "Mo_2.4GH";                                        //                                //
-               const char* password = "Morales0910";                                 //                                
+               const char* ssid = "YOUR+SSID";                                       //                                //
+               const char* password = "YOUR+PASSWORD";                               //                                
 //                                                                                   //
 // HERE YOU CAN CHANGE THE VOLTAGE YOU ARE USING TO CALCULATE THE POWER WATT [W]     //
                double volt = 120;                                                    //
