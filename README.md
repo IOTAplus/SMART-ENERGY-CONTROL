@@ -22,6 +22,10 @@ If you have running the iot2tangle Gateway, Keepy, the Python wallet and at leas
 Add the keepy url you are sending to with the other devices. Now you can watch all data and controll the devices connected.   
 
 ## Software requirements
+* [Streams-http-gateway](https://github.com/iot2tangle/Streams-http-gateway) 
+* [Keepy](https://github.com/iot2tangle/Keepy)
+* [Python Wallet](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/PythonWallet)
+
 https://www.dropbox.com/sh/zvhucifkoikak4l/AAB877s_hO2utaJ0Pj87WVDfa?dl=0
 
 
