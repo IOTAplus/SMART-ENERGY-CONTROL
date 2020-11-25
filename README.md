@@ -19,6 +19,8 @@ Install it on any device which can run python.
 If you have running the iot2tangle Gateway, Keepy, the Python wallet and at least one TTGO with relais and ACS712 you can check the mobile app.
 Add the keepy url you are sending to with the other devices. Now you can watch all data and controll the devices connected.   
 
-
-
+## Software requirements
 https://www.dropbox.com/sh/zvhucifkoikak4l/AAB877s_hO2utaJ0Pj87WVDfa?dl=0
+
+## Bill of materials
+TTGO
