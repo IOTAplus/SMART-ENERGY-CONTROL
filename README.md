@@ -1,6 +1,6 @@
 # SMART-ENERGY-CONTROLL 
 ## Introduction
-(TO GET A DETAILED GUIDE AND DESCRIPTION CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL.wiki.git">WIKI!</a>)
+(TO GET A DETAILED GUIDE AND DESCRIPTION CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL.wiki.git/">WIKI!</a>)
 ### IOTA SMART HOME   -> ON AND OFF
 This is a solution how to save and read the energy consumption data of any AC device(with small changes also DC devices). 
 
