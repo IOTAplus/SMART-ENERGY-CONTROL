@@ -16,4 +16,4 @@ It is a programm which contains a very small IOTA Wallet. It checks the balance 
 Install it on any device which can run python. 
 If you have running the iot2tangle Gateway, Keepy, the Python wallet and at least one TTGO with relais and ACS712 you can check the mobile app.
 Add the keepy url you are sending to with the other devices. Now you can watch all data and controll the devices connected.   
-[https://raw.githubusercontent.com/elRaulito/Iotraffic-hackaton/main/AIcam/AI-dash/AIport.PNG]
+https://raw.githubusercontent.com/elRaulito/Iotraffic-hackaton/main/AIcam/AI-dash/AIport.PNG
