@@ -11,8 +11,10 @@ Connect to this circuit an device like a lamp and it will switch on and off with
 
 There is more. 
 ### THE BUISNESS MODEL -> RECEIVE IOTA PER WATT HOURS USED
-If you want to charge the power used from someone you can change the price in the code of the TTGO to more than 0 IOTA per Wh.
 
+This model could be used by energy grid companies or even small hotels to count and charge the energy which was really used.
+
+If you want to charge the power used from someone you can change the price in the code of the TTGO to more than 0 IOTA per Wh.
 The TTGO counts now the balance down to 0. 
 It is a programm which contains a very small IOTA Wallet. It checks the balance and the last save address where people can send IOTA to and post it to keepy and from there to the IOTA tangle.
 Install it on any device which can run python. 
