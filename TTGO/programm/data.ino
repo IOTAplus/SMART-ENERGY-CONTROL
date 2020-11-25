@@ -11,10 +11,10 @@
 //                                                                                   //  
 //                                                                                   //
 // CHANGE HERE THE PRICE YOU WANT PER Wh IN IOTA                                     //
-// IF IT IS AT 0 IT'S FOR FREE TO USE THE DEVICE AND YOU WILL BE ABLE TO USE IT     //
+// IF IT IS AT 0 IT'S FOR FREE TO USE THE DEVICE AND YOU WILL BE ABLE TO USE IT      //
 // JUST LIKE A SMART RELLAIS WITH WHERE YOU SEE THE CONSUMPTION OR YOU PUT AN AMOUNT // 
 // HIGHER THAN 0 FOR EXAMPLE 1000 IOTA PER Wh BUT THAN YOU CAN JUST SWITCH ON THE    //
-// RELLAIS IF YOU HAVE  ENOUGH IOTA ON THE GATEWAY WALLET                            //
+// RELLAIS IF YOU HAVE  ENOUGH IOTA ON THE GATEWAY PYTHON WALLET                     //
 // put here 1000 for 1000 IOTA/Wh price. Icalculated it with energy price            //
 //  0.2USD / 1 kWh and the IOTA price 0.2 USD/MIOTA                                  //
 //                                                                                   //
