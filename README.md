@@ -24,6 +24,8 @@ Install it on any device which can run python.
 If you have running the iot2tangle Gateway, Keepy, the Python wallet and at least one TTGO with a relay and a ACS712 you can check the Smart Home app.
 Add the same Keepy URL you are sending to with the other devices(TTGO and Pyhton Wallet). Now you can watch all data and controll the devices connected.   
 
+<iframe width="800" height="450" src="https://www.powtoon.com/embed/eKk2WBgknBg/" frameborder="0" allowfullscreen></iframe>
+
 ## Software requirements
 * [Streams-http-gateway](https://github.com/iot2tangle/Streams-http-gateway) 
 * [Keepy](https://github.com/iot2tangle/Keepy)
