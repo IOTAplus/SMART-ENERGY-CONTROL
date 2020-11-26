@@ -3,7 +3,7 @@
 ## Introduction
 (TO GET A DETAILED GUIDE AND DESCRIPTION CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL/wiki/">WIKI!</a>)
 
-[Watch the project intro here](https://www.powtoon.com/embed/eKk2WBgknBg)
+[Watch the project intro here.](https://www.powtoon.com/embed/eKk2WBgknBg)
 
 ### IOTA SMART HOME   -> ON AND OFF
 This is a solution how to remotely measure, save and read the energy consumption data of any AC device(with small changes also DC devices) all over IOTA. 
