@@ -27,7 +27,7 @@ Add the keepy url you are sending to with the other devices. Now you can watch a
 * [Python Wallet](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/PythonWallet)
 * [Uncompiled Unity Smart Home app](https://www.dropbox.com/home/Unity)
   * [Compiled Unity Smart Home app for Android](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/android)
-  * [Compiled Unity Smart Home app for Windows](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/iota%2Bsmarthome-windows)
+  * [Compiled Unity Smart Home app for Windows](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/windows)
 
 
 
