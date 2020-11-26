@@ -10,6 +10,8 @@ You can connect as many TTGO or other devices (just sending data with the correc
 and show them. You dont just receive the energy data you can controll each device monitored seperate over the phone to switch "ON" and "OFF" a rellais and so the the energy circuit.
 Connect to this circuit an device like a lamp and it will switch on and off with just tapping a button in your app.
 
+[Watch my project movie here](https://www.powtoon.com/embed/eKk2WBgknBg)
+
 There is more. 
 ### THE BUISNESS MODEL -> RECEIVE IOTAs PER WATT HOURS CONSUMED
 
