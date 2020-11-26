@@ -1,5 +1,5 @@
 # SMART ENERGY CONTROL
-![Title-pic](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/blob/main/Images/Download.png)
+![Title-pic](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/blob/main/Images/unknown.png)
 ## Introduction
 (TO GET A DETAILED GUIDE AND DESCRIPTION CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL/wiki/">WIKI!</a>)
 ### IOTA SMART HOME   -> ON AND OFF
