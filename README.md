@@ -4,10 +4,10 @@
 ### IOTA SMART HOME   -> ON AND OFF
 This is a solution how to save and read the energy consumption data of any AC device(with small changes also DC devices). 
 
-Setup this example project and monitor some data like Watt or the consumed energy directly on the Android app.
+Setup this example project and monitor some data like Watt or the consumed energy directly on the Android or Windows app.
 You can connect as many TTGO or other devices (just sending data with the correct JSON format) the Android app will automatically recognize 
 and show them. You dont just receive the energy data you can controll each device monitored seperate over the phone to switch "ON" and "OFF" a rellais and so the the energy circuit.
-Connect to this circuit an device like a lamp and it will switch on and off with just tapping a button on your phone.
+Connect to this circuit an device like a lamp and it will switch on and off with just tapping a button in your app.
 
 There is more. 
 ### THE BUISNESS MODEL -> RECEIVE IOTA PER WATT HOURS USED
@@ -26,8 +26,8 @@ Add the keepy url you are sending to with the other devices. Now you can watch a
 * [Keepy](https://github.com/iot2tangle/Keepy)
 * [Python Wallet](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/PythonWallet)
 * [Uncompiled Unity Smart Home app](https://www.dropbox.com/home/Unity)
-  * [Compiled Unity Smart Home app for Android](https://www.dropbox.com/sh/rejrle969io44uh/AAA9eK8mjADJeYRaMrptWFvAa?dl=0)
-  * [Compiled Unity Smart Home app for Windows](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/iota%2Bsmarthome-windows)
+  * [Compiled Unity Smart Home app for Android](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/android)
+  * [Compiled Unity Smart Home app for Windows](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/windows)
 
 
 
