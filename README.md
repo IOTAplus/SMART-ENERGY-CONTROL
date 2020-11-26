@@ -47,6 +47,6 @@ Add the same Keepy URL you are sending to with the other devices(TTGO and Pyhton
 |Some Cable|[Cable](https://www.digikey.ch/product-detail/de/mikroelektronika/MIKROE-513/1471-1232-ND/4495596?utm_adgroup=Jumper%20Wire&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Prototyping%2C%20Fabrication%20Products&utm_term=&productid=4495596)|1|3$|
 
 ## Sources
-* [Top lines in the Smarthome App](https://pngtree.com/freebackground/abstract-pink-blue-waves-isolated-on-white_1151999.html)
+* [Top lines in the Smart Home App](https://pngtree.com/freebackground/abstract-pink-blue-waves-isolated-on-white_1151999.html)
 
 * [Icon made by Freepik from www.flaticon.com](https://www.flaticon.com/)
