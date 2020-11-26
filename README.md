@@ -25,8 +25,10 @@ Add the keepy url you are sending to with the other devices. Now you can watch a
 * [Streams-http-gateway](https://github.com/iot2tangle/Streams-http-gateway) 
 * [Keepy](https://github.com/iot2tangle/Keepy)
 * [Python Wallet](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/PythonWallet)
-* [Uncompiled Unity app](https://www.dropbox.com/home/Unity)
-* [Compiled Unity app for Android](https://www.dropbox.com/sh/rejrle969io44uh/AAA9eK8mjADJeYRaMrptWFvAa?dl=0)
+* [Uncompiled Unity Smart Home app](https://www.dropbox.com/home/Unity)
+  * [Compiled Unity Smart Home app for Android](https://www.dropbox.com/sh/rejrle969io44uh/AAA9eK8mjADJeYRaMrptWFvAa?dl=0)
+  * [Compiled Unity Smart Home app for Windows](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/tree/main/SmartHomeApp/iota%2Bsmarthome-windows)
+
 
 
 ## Bill of materials
