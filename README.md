@@ -45,3 +45,8 @@ Add the same Keepy URL you are sending to with the other devices(TTGO and Pyhton
 |USB-C for the TTGO | [USB-Cable](https://www.microspot.ch/de/mobiltelefon-tablet-wearables/mobiltelefon/mobiltelefon-tablet-kabel-adapter--c413000/intertronic-usb-c-kabel-usb-3-0-usb-typ-c-1-m--p0001860850?gclsrc=ds&gclsrc=ds)| 1|2-15$|
 |Power Adapter|[Power Bank]()|1|20$|
 |Some Cable|[Cable](https://www.digikey.ch/product-detail/de/mikroelektronika/MIKROE-513/1471-1232-ND/4495596?utm_adgroup=Jumper%20Wire&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Prototyping%2C%20Fabrication%20Products&utm_term=&productid=4495596)|1|3$|
+
+## Sources
+[Top lines in the Smarthome App](https://pngtree.com/freebackground/abstract-pink-blue-waves-isolated-on-white_1151999.html)
+
+[Icon made by Freepik from www.flaticon.com](https://www.flaticon.com/)
