@@ -2,6 +2,9 @@
 ![Title-pic](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/blob/main/Images/unknown.png)
 ## Introduction
 (TO GET A DETAILED GUIDE AND DESCRIPTION CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL/wiki/">WIKI!</a>)
+
+[Watch the project intro here](https://www.powtoon.com/embed/eKk2WBgknBg)
+
 ### IOTA SMART HOME   -> ON AND OFF
 This is a solution how to remotely measure, save and read the energy consumption data of any AC device(with small changes also DC devices) all over IOTA. 
 
@@ -10,9 +13,8 @@ You can connect as many TTGO or other devices (just sending data with the correc
 and show them. You dont just receive the energy data you can controll each device monitored seperate over the phone to switch "ON" and "OFF" a rellais and so the the energy circuit.
 Connect to this circuit an device like a lamp and it will switch on and off with just tapping a button in your app.
 
-[Watch my project movie here](https://www.powtoon.com/embed/eKk2WBgknBg)
-
 There is more. 
+
 ### THE BUISNESS MODEL -> RECEIVE IOTAs PER WATT HOURS CONSUMED
 
 This model could be used by energy grid companies or even small hotels to count and charge the energy which was really used.
