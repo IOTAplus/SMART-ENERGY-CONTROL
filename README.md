@@ -1,7 +1,7 @@
 # SMART ENERGY CONTROL
 ![Title-pic](https://github.com/IOTAplus/SMART-ENERGY-CONTROL/blob/main/Images/unknown.png)
 ## Introduction
-(PLEASE CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL/wiki/">WIKI</a>) FOR MORE INFORMATIONS
+(PLEASE CHECK THE <a href="https://github.com/IOTAplus/SMART-ENERGY-CONTROLL/wiki/">WIKI</a> FOR MORE INFORMATIONS)
 
 [Watch the project intro here.](https://www.powtoon.com/embed/eKk2WBgknBg)
 
